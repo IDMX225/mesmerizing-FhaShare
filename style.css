@@ -545,11 +545,9 @@ body {
     color: white;
   }
 
-  .holder .circle {
-    background: black;
+  .holder .circle:nth-child(1){
+    background: white;
   }
-
-  .holder .circle:nth-child(1),
   .holder .circle:nth-child(2),
   .holder .circle:nth-child(3),
   .holder .circle:nth-child(4),
