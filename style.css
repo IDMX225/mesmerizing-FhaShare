@@ -342,7 +342,7 @@ body {
     background-color: #022e5a;
   }
   .container .subcontainer .half:nth-child(1) .droplet:after {
-    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 10 10' xmlns='http://www.w3.org/2000/svg'><path fill='%23ffdcdc' d='M0,10L5,0L10,10Z'/></svg>");
+    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 10 10' xmlns='http://www.w3.org/2000/svg'><path fill='%23022e5a' d='M0,10L5,0L10,10Z'/></svg>");
   }
   .container .subcontainer .half:nth-child(2) {
     box-shadow: 0 -150px 0 150px #022e5a;
